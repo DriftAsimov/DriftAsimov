@@ -4,7 +4,7 @@
 
 ## Hi, this is me, Drift Asimov!
 I am the owner and founder of a Discord Anime Server popularly known as [Fureai](https://discord.gg/x3qAZV3)
-So come on and join us for a wonderful anime experience.
+So come on and join us for a wonderful anime experience. ![](https://cdn.discordapp.com/emojis/583871018683334679.gif?v=1)
 
 ## What is this GitHub about?
 This GitHub has repos to help you on your programming schedules, I will be posting the source codes of some of my projects and soon I plan to make a website for my server.
