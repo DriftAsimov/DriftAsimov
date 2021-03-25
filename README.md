@@ -10,7 +10,7 @@ So come on and join us for a wonderful anime experience. <img src="https://45.me
 This GitHub has repos to help you on your programming schedules, I will be posting the source codes of some of my projects and soon I plan to make a website for my server.
 
 ## Animec
-I own an anime API called as *animec* which can be found [here](https://pypi.org/project/animec/).
+I own an anime API called as **animec** which can be found [here](https://pypi.org/project/animec/).
 
 ## DriftAsimov's GitHub Statistics
 [![Drift Asimov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=driftasimov&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
