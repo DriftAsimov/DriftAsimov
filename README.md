@@ -13,6 +13,6 @@ This GitHub has repos to help you on your programming schedules, I will be posti
 I own an anime API called as **animec** which can be found [here](https://pypi.org/project/animec/).
 
 ## DriftAsimov's GitHub Statistics
-[![Drift Asimov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=driftasimov&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Drift Asimov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=driftasimov&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driftasimov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
