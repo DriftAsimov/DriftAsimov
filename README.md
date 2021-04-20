@@ -18,5 +18,5 @@ I own an anime API called as **animec** which can be found [here](https://pypi.o
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driftasimov&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Works
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=animec&amp;theme=dracula&amp;show_owner=false" alt="DevLunch">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=ClickAllDay&amp;theme=dracula&amp;show_owner=false" alt="DevLunch">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=animec&amp;theme=dracula&amp;show_owner=false">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=ClickAllDay&amp;theme=dracula&amp;show_owner=false">
