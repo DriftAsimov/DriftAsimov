@@ -19,4 +19,3 @@ I am currently working on an anime module called as **animec** which can be foun
 
 ## Top Works
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=animec&amp;theme=dracula&amp;show_owner=false">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=ClickAllDay&amp;theme=dracula&amp;show_owner=false">
