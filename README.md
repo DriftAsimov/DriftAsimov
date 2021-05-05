@@ -7,7 +7,7 @@ I am the owner and founder of a Discord Anime Server popularly known as [Fureai]
 So come on and join us for a wonderful anime experience. <img src="https://45.media.tumblr.com/8258f16f2d3ec57e7bf9a7e44592e50c/tumblr_mu6m7zAM8k1s2r5vwo1_250.gif" width=3%>
 
 ## What is this GitHub about?
-This GitHub has repos to help you on your programming schedules, I will be posting the source codes of some of my projects and soon I plan to make a website for my server.
+Contributing to the Wonderful World of Open Source, what not!
 
 ## Animec
 I am currently working on an anime module called as **animec** which can be found [here](https://pypi.org/project/animec/).
