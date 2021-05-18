@@ -16,6 +16,3 @@ I am currently working on an anime module called as **animec** which can be foun
 [![Drift Asimov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=driftasimov&show_icons=true&theme=radical&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=driftasimov&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Works
-<a href = "https://github.com/DriftAsimov/animec"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DriftAsimov&amp;repo=animec&amp;theme=radical&amp;show_owner=false"></a>
