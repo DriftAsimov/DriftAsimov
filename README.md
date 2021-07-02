@@ -1,5 +1,7 @@
 #### "No one knows what the future holds, that's why its potential is infinite."
 
+<img src = "https://emoji.gg/assets/emoji/9030-azusa-wink-smile.png?t=1625207527" align = "right">
+
 ### El Psy Kongroo
 
 ## Hi, this is me, Drift Asimov!
