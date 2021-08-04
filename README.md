@@ -1,8 +1,5 @@
-#### "No one knows what the future holds, that's why its potential is infinite."
-
 <img src = "https://emoji.gg/assets/emoji/9030-azusa-wink-smile.png?t=1625207527" align = "right">
-
-### El Psy Kongroo
+<img src = "https://i.imgur.com/G8ky3I8.png">
 
 ## Hi, this is me, Drift Asimov!
 I am the owner and founder of a Discord Anime Server popularly known as [Fureai](https://discord.gg/x3qAZV3).\
