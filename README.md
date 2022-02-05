@@ -8,8 +8,7 @@ Just a little idiot trying to exist in this scary world <img src="https://45.med
 Contributing to the Wonderful World of Open Source and Documentation, what not!
 
 ## Animec
-I am currently working on an anime module called as **animec** which can be found [here](https://pypi.org/project/animec/).
-
+A simple anime module I made way back, it can be found [here](https://pypi.org/project/animec/)
 ## My GitHub Stats
 
 <p align="center">
